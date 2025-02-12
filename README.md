@@ -45,3 +45,7 @@ The **Online Food Delivery System** is a Full-stack web Application designed to 
   - Add, update, and manage restaurant details.
   - Manage food items, categories, and ingredients.
   - View and process customer orders.
+
+### Admin Features
+  - Manage users , Restaurants , and food items .
+  - Monitor and approve new restaurant registrations.
