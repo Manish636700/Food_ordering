@@ -17,7 +17,7 @@ The **Online Food Delivery System** is a Full-stack web Application designed to 
 
 ### Backend
 
-  - **Spring Boot** :
+  - **Spring Boot** : A Java-based framework for building scalable and high-performance web applications.
   - **Spring Security** :
   - **JSON Web Token (JWT)** :
   - **Spring Starter Mail** :
