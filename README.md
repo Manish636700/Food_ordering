@@ -24,3 +24,19 @@ The **Online Food Delivery System** is a Full-stack web Application designed to 
 
 ### Database
 
+  - **MySQL :** A relational database management system (RDBMS) used for storing and managing application data efficiently.
+
+
+## Development Tools
+
+  - **IntelliJ IDEA :** Used for backend development with Spring Boot.
+  - **VS Code :** Used for frontend development with React.
+
+## Project Features
+
+### Customer Features
+  - User authentication and role-based access.
+  - Browse restaurants and their food menus.
+  - Add food items to the cart and place orders.
+  - Track order status and history.
+
