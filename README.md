@@ -49,3 +49,15 @@ The **Online Food Delivery System** is a Full-stack web Application designed to 
 ### Admin Features
   - Manage users , Restaurants , and food items .
   - Monitor and approve new restaurant registrations.
+
+# Project Models
+  - **User :** Represents customers and restaurant owners with authentication details.
+  - **Restaurant :** Stores restaurant details such as name, location, and menu.
+  - **Food :** Contains food item details, including name, price, and availability.
+  - **Food Category :** Groups food items into categories.
+  - **Ingredients :** Represents ingredients used in food items.
+  - **Event :** Handles special events, discounts, or promotions.
+  - **Order :** Stores order details, including customer information and total amount.
+  - **Order Item :** Represents individual items within an order.
+  - **Cart :** Temporary storage for items selected by the customer before checkout.
+  - **Cart Item :** Represents individual food items added to the cart.
