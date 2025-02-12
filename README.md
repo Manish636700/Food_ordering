@@ -2,4 +2,4 @@
 
 ### Technology
 
-- George Washington
+- React
