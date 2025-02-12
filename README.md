@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The **Online Food Delivery System** is a Full-stack web Application
+The **Online Food Delivery System** is a Full-stack web Application designed to facilitate seamless food ordering and delivery. It provides a platform where customers can browse restaurants , explore food options , place orders , and track deliveries. Restaurant owners can manage their menus , process orders , and handle customer interactions . The system ensures security through role-based access control and authentication mechanisms. 
 
 - React
 - Spring Boot
