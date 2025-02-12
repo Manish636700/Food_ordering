@@ -9,8 +9,8 @@ The **Online Food Delivery System** is a Full-stack web Application designed to 
 
 ### Frontend
 
-  - React : A JavaScript Library for building interactive and dynamic UI compoments.
-  - Tailwind CSS : A
+  - **React** : A JavaScript Library for building interactive and dynamic UI compoments.
+  - **Tailwind CSS** : A utility-first CSS framework for responsive and customizable designs.
 
 - React
 - Spring Boot
