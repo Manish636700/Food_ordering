@@ -2,4 +2,6 @@
 
 ### Technology
 
-_ React
+- George Washington
+* John Adams
++ Thomas Jefferson
