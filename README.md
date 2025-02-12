@@ -15,42 +15,9 @@ The **Online Food Delivery System** is a Full-stack web Application designed to 
   - **Redux** : A state management library for handling application-wide state.
   - **Axios** :  A promise-based HTTP client for making API requests.
 
-### Frontend
+### Backend
 
-  - **React** : A JavaScript Library for building interactive and dynamic UI compoments.
-  - **Tailwind CSS** : A utility-first CSS framework for responsive and customizable designs.
-  - **MUI (Material UI)** : A component library providing pre-built, stylish UI components.
-  - **Redux** : A state management library for handling application-wide state.
-  - **Axios** :  A promise-based HTTP client for making API requests.
-
-
-
-
-- React
-- Spring Boot
-- Spring Security
-- role base access (ROLE_CUSTOMER,ROLE_RESTAURANT_OWNER)
-- Spring start mail
-- Jeson web token
-- Mysql
-- Tailwind css
-- Mui (css component library)
-- Redux (State managment library)
-- Axios 
-
-### Tools
-- intellij idea (spring boot)
-- vs code (react)
-
-
-### Model
-- User
-- Restaurant
-- Food
-- Food Category
-- Ingredients
-- Event
-- Order
-- Order Item
-- Cart
-- Cart Item
+  - **Spring Boot** :
+  - **Spring Security** :
+  - **JSON Web Token (JWT)** :
+  - **Spring Starter Mail** :
