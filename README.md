@@ -1,6 +1,8 @@
-# Online Food Delivery Project
+# **Online Food Delivery Project**
 
-### Technology
+## Project Overview
+
+The 
 
 - React
 - Spring Boot
