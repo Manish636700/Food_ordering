@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The 
+The **Online Food Delivery System** is a Full-stack web Application
 
 - React
 - Spring Boot
